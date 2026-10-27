@@ -1,9 +1,0 @@
-# vesseldacon 학습/추론 환경 (conda env: vesseldacon, Python 3.11)
-# 베이스라인 모델(rf.pkl)이 scikit-learn 1.5.2로 저장되어 있어 같은 버전으로 고정
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.5.2
-joblib==1.4.2
-tqdm>=4.66
-# JupyterLab에서 vesseldacon 커널로 노트북을 실행하기 위함
-ipykernel>=6.29
